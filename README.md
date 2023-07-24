@@ -1,8 +1,8 @@
 # EPINEST
 
-An agent-based model for epidemic simulation in poultry production networks.
+An agent-based model for epidemic simulation in poultry production and distribution networks.
 
-This repository contains code to install and run **EPINEST** and to analyse simulation output.
+This repository contains code to install and run **EPINEST** and to analyse simulation outputs.
 
 # Installation
 
